@@ -1,2 +1,2 @@
 # ExerciciosPython
- Exercícios pyhton que fiz do Curso em vídeo
+ Exercícios python que fiz do Curso em vídeo
